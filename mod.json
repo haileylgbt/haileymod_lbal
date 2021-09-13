@@ -1,0 +1,9 @@
+{
+    "id": "haileymod",
+    "version": "1.0.0",
+    "authors": ["hailey"],
+    "name": "HaileyMod",
+    "description": "Adds some cool items and symbols!",
+    "dependencies": [],
+    "load-after": []
+}
