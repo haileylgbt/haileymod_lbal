@@ -5,7 +5,7 @@ func init(modloader: Reference, params):
 
     self.id = "hm_hailey"
     self.value = 4
-    self.values = [1, 50]
+    self.values = [1, 50, 2]
     self.rarity = "very_rare"
     self.groups = ["organism", "human", "hailey_symbols", "doglikes"]
 

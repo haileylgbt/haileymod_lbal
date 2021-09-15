@@ -6,7 +6,7 @@ func init(modloader: Reference, params):
     self.id = "hm_lesbian_flag"
     self.value = 3
     self.values = []
-    self.rarity = "very_rare"
+    self.rarity = "none"
     self.groups = ["hailey_symbols", "flag"]
 
     self.texture = load_texture("res://haileymod/symbols/lesbian-flag.png")
