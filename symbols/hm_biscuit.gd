@@ -9,6 +9,6 @@ func init(modloader: Reference, params):
     self.rarity = "uncommon"
     self.groups = ["food", "hailey_symbols"]
 
-    self.texture = load_texture("res://haileymod/symbols/hailey-placeholder.png")
+    self.texture = load_texture("res://haileymod/symbols/biscuit.png")
     self.name = "Biscuit"
     self.description = "Yummy!"
