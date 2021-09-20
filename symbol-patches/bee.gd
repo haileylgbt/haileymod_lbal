@@ -14,4 +14,4 @@ func add_conditional_effects(symbol, adjacent):
         symbol.add_effect_for_symbol(i, effect().if_type("hm_hailey").set_destroyed().animate("shake"))
         symbol.add_effect_for_symbol(i, effect().if_destroyed().if_type("hm_hailey").set_target(symbol).set_destroyed().animate("shake"))
         symbol.add_effect_for_symbol(i, effect().if_type("hm_harriet").set_destroyed().animate("shake"))
-        symbol.add_effect_for_symbol(i, effect().if_destroyed().if_type("hm_harret").set_target(symbol).set_destroyed().animate("shake"))
+        symbol.add_effect_for_symbol(i, effect().if_destroyed().if_type("hm_harriet").set_target(symbol).set_destroyed().animate("shake"))
